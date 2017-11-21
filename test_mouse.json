@@ -1,0 +1,13 @@
+{
+	"file": "https://raw.githubusercontent.com/chasapisioannina/Upset/master/test_mouse.csv",
+	"name": "PPIs",
+	"header": 0,
+	"separator": ";",
+	"skip": 0,
+	"meta": [
+		{ "type": "id", "index": 0, "name": "PPI" }
+	],
+	"sets": [
+		{ "format": "binary", "start": 1, "end": 10 }
+	]
+}
